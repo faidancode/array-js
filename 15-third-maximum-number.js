@@ -1,3 +1,5 @@
+// This is a classic problem that can be solved efficiently by using the array itself as a "hash map" to track which numbers have been seen.
+
 /**
  * @param {number[]} nums
  * @return {number}
